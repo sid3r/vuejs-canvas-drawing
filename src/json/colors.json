@@ -1,0 +1,82 @@
+[
+  {
+    "styleName": "black",
+    "fillEnabled": true,
+    "strokeEnabled": false,
+    "shadowEnabled": false,
+    "fill": "#000000",
+    "opacity": 1
+  },
+  {
+    "styleName": "white",
+    "fillEnabled": true,
+    "strokeEnabled": false,
+    "shadowEnabled": false,
+    "fill": "#FFFFFF",
+    "opacity": 1
+  },
+  {
+    "styleName": "red",
+    "fillEnabled": true,
+    "strokeEnabled": false,
+    "shadowEnabled": false,
+    "fill": "#FF0000",
+    "opacity": 1
+  },
+  {
+    "styleName": "orange",
+    "fillEnabled": true,
+    "strokeEnabled": false,
+    "shadowEnabled": false,
+    "fill": "#FF6633",
+    "opacity": 1
+  },
+  {
+    "styleName": "yellow",
+    "fillEnabled": true,
+    "strokeEnabled": false,
+    "shadowEnabled": false,
+    "fill": "#FFFF00",
+    "opacity": 1
+  },
+  {
+    "styleName": "purple",
+    "fillEnabled": true,
+    "strokeEnabled": false,
+    "shadowEnabled": false,
+    "fill": "#993399",
+    "opacity": 1
+  },
+  {
+    "styleName": "green",
+    "fillEnabled": true,
+    "strokeEnabled": false,
+    "shadowEnabled": false,
+    "fill": "#00FF00",
+    "opacity": 1
+  },
+  {
+    "styleName": "blue",
+    "fillEnabled": true,
+    "strokeEnabled": false,
+    "shadowEnabled": false,
+    "fill": "#0000FF",
+    "opacity": 1
+  },
+  {
+    "styleName": "cyan",
+    "fillEnabled": true,
+    "strokeEnabled": false,
+    "shadowEnabled": false,
+    "fill": "#00FFFF",
+    "opacity": 1
+  },
+  {
+    "styleName": "pink",
+    "fillEnabled": true,
+    "strokeEnabled": false,
+    "shadowEnabled": false,
+    "fill": "#FF00FF",
+    "opacity": 1
+  }
+]
